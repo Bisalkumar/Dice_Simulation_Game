@@ -50,5 +50,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Acknowledgement
 
-Thanks to OpenAI and the Python community for invaluable resources and support.
+Thanks to google and the Python community for invaluable resources and support.
 
